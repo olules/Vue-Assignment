@@ -1,7 +1,7 @@
 const bulb= {
     data(){
         return{
-            showImage: false,        
+            showImage: false        
         };
     },
     methods: {
